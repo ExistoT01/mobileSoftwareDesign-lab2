@@ -1,0 +1,39 @@
+/**index.wxss**/
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+/* 文本样式 */
+text{
+    font-size: 80rpx;
+    color: #3c5f81;
+}
+
+/* 图表样式 */
+image{
+    width: 220rpx;
+}
+
+/* 区域4 整体样式 */
+.detail{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+/* 区域4 单元行样式 */
+.bar{
+    display: flex;
+    flex-direction: row;
+    margin: 20rpx 0;
+}
+
+/* 区域4 单元格样式 */
+.box{
+    width: 33.3%;
+    text-align: center;
+}
