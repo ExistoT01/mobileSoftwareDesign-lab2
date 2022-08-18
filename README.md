@@ -29,83 +29,83 @@
 
       申请账号，新建应用，获取`key`值
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818194138636.png" alt="image-20220818194138636" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115086.png" alt="image-20220818194138636" style="zoom:80%;" />
 
    2. API调用方法
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818194626775.png" alt="image-20220818194626775" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115088.png" alt="image-20220818194626775" style="zoom:80%;" />
 
    3. 服务器域名配置
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818195244981.png" alt="image-20220818195244981" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115089.png" alt="image-20220818195244981" style="zoom:80%;" />
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818195358009.png" alt="image-20220818195358009" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115090.png" alt="image-20220818195358009" style="zoom:80%;" />
 
 2. 项目创建
 
-   <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818195829354.png" alt="image-20220818195829354" style="zoom:80%;" />
+   <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115091.png" alt="image-20220818195829354" style="zoom:80%;" />
 
 3. 页面配置
 
-   <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818200022805.png" alt="image-20220818200022805" style="zoom:80%;" />
+   <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115092.png" alt="image-20220818200022805" style="zoom:80%;" />
 
-   <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818200034134.png" alt="image-20220818200034134" style="zoom:80%;" />
+   <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115093.png" alt="image-20220818200034134" style="zoom:80%;" />
 
 4. 视图设计
 
    1. 导航栏设计
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818200206447.png" alt="image-20220818200206447" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115094.png" alt="image-20220818200206447" style="zoom:80%;" />
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818200218285.png" alt="image-20220818200218285" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115095.png" alt="image-20220818200218285" style="zoom:80%;" />
 
    2. 页面设计
 
       1. 背景容器样式
 
-         <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818200719429.png" alt="image-20220818200719429" style="zoom:80%;" />
+         <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115096.png" alt="image-20220818200719429" style="zoom:80%;" />
 
       2. 地区选择器设计
 
-         <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818200857750.png" alt="image-20220818200857750" style="zoom:80%;" />
+         <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115097.png" alt="image-20220818200857750" style="zoom:80%;" />
 
-         <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818200906783.png" alt="image-20220818200906783" style="zoom:80%;" />
+         <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115098.png" alt="image-20220818200906783" style="zoom:80%;" />
 
       3. 文本设计
 
-         <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818201507114.png" alt="image-20220818201507114" style="zoom:80%;" />
+         <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115099.png" alt="image-20220818201507114" style="zoom:80%;" />
 
-         <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818201516072.png" alt="image-20220818201516072" style="zoom:80%;" />
+         <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115100.png" alt="image-20220818201516072" style="zoom:80%;" />
 
       4. 天气图标设计
 
-         <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818201912070.png" alt="image-20220818201912070" style="zoom:80%;" />
+         <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115101.png" alt="image-20220818201912070" style="zoom:80%;" />
 
-         <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818201924786.png" alt="image-20220818201924786" style="zoom:80%;" />
+         <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115102.png" alt="image-20220818201924786" style="zoom:80%;" />
 
       5. 多行天气信息设计
 
-         <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818202759759.png" alt="image-20220818202759759" style="zoom:80%;" />
+         <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115103.png" alt="image-20220818202759759" style="zoom:80%;" />
 
-         <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818202808851.png" alt="image-20220818202808851" style="zoom:80%;" />
+         <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115104.png" alt="image-20220818202808851" style="zoom:80%;" />
 
 5. 逻辑实现
 
    1. 更新省市区信息
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818203603836.png" alt="image-20220818203603836" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115105.png" alt="image-20220818203603836" style="zoom:80%;" />
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818203616549.png" alt="image-20220818203616549" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115106.png" alt="image-20220818203616549" style="zoom:80%;" />
 
    2. 获取实况天气数据
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818210038510.png" alt="image-20220818210038510" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115107.png" alt="image-20220818210038510" style="zoom:80%;" />
 
    3. 更新页面天气信息
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818210710522.png" alt="image-20220818210710522" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115108.png" alt="image-20220818210710522" style="zoom:80%;" />
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818210729239.png" alt="image-20220818210729239" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115109.png" alt="image-20220818210729239" style="zoom:80%;" />
 
 
 
@@ -113,9 +113,9 @@
 
 列出程序的最终运行结果及截图。
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818210739649.png" alt="image-20220818210739649" style="zoom:80%;" />
+<img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115110.png" alt="image-20220818210739649" style="zoom:80%;" />
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220818210802847.png" alt="image-20220818210802847" style="zoom:80%;" />
+<img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208182115111.png" alt="image-20220818210802847" style="zoom:80%;" />
 
 ## 四、问题总结与体会
 
